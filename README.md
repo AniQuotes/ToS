@@ -84,14 +84,14 @@ These Terms constitute the entire agreement between you and us regarding the Ser
 
 ### 17. Contact Information
 For questions about these Terms, contact us via:
-- Email: aniquotes@gmail.com
+- Email: aniquotesapi@gmail.com
 - GitHub Issues: [AniQuotesAPI](https://github.com/Shineii86/AniQuotesAPI/issues)
 
 ---
 
 <div align="center">
   
-**AniQuotes** For inquiries or collaborations
+**[AniQuotes](https://github.com/AniQuotes)** For inquiries or collaborations
      
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/Shineii86 "Contact on Telegram")
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/ikx7.a "Follow on Instagram")
